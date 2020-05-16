@@ -24,4 +24,6 @@
   Blue: 58<br/>
   Six Color: factory settings
 
-Smart Enegry Saving always off
+Smart Enegry Saving always off<br/>
+
+Low Brightness Advice: set Contrast to `21` and `Color Temp` to `Cool`
