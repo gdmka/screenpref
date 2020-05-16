@@ -26,4 +26,4 @@
 
 Smart Enegry Saving always off<br/>
 
-Low Brightness Advice: set Contrast to `21` and `Color Temp` to `Cool`
+Low Saturation Advice: set Contrast to `21` and `Color Temp` to `Cool`
