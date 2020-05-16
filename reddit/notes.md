@@ -1,0 +1,1 @@
+Looks bettwer with Gamma set to  `Gamma2` rather than factory `Gamma1`
