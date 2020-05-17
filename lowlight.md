@@ -9,7 +9,7 @@
 
   ## Picture Ajdust
   Sharpness : 50</br>
-  Black Level: Low</br>
+  Black Level: **High**</br>
   DFC: Off
 
   ## Game Adjust
