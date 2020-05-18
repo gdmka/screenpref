@@ -1,6 +1,6 @@
   # Quick Settings
-  Brightness: 70<br/>
-  Contrast: 30
+  Brightness: varies (25, 50, 70, 100)<br/>
+  Contrast: 70
 
 
   # Picture
@@ -17,8 +17,10 @@
   Response Time: Low
 
   ## Color Adjust
-  Gamma: Gamma2 or Gamma0 (more vibrance/light) <br/>
-  Color Temp: Custom<br/>
+  Gamma: Gamma2 or Gamma1<br/>
+  Color Temp: Custom or Cold or Medium (depends on ambient light)<br/>
+
+  _Custom_<br/>
   Red: 30<br/>
   Green: 30<br/>
   Blue: 50<br/>
